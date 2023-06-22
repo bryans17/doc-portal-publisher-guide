@@ -11,3 +11,4 @@
 * [Limitations](limitations)
 * [Issues](issues)
 * [Showcase](showcase)
+* [FAQs](faqs)
