@@ -2,7 +2,7 @@
 
 Developer documentation portal uses a set of default Docsify settings and styles to render your documentation.
 **It does not read from your repository's `index.html` file.**
-Some of these settings are configurable [from the portal](#manual-configuration).
+Some of these settings are configurable [from the portal](##manual-configuration).
 
 To see exactly how your own documentation pages would look like on Documentation
 Portal, use the following `window.$docsify` settings in your index.html file.
